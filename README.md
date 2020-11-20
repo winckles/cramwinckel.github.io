@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](notebooks/volcanoes.pdf)
-<img src="assets/dummy_thumbnail.jpg?raw=true"/>
+<img src="assets/volcanoes.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
