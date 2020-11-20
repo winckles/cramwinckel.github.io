@@ -14,7 +14,7 @@
 
 ### Mobile Apps
 
-<img src="assets/appstore.png" width="100"/> <img src="appstore-odd.png" width="100"/> 
+<img src="assets/appstore.png" width="100"/> <img src="assets/appstore-odd.png" width="100"/> 
 
 ---
 
