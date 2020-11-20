@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Explorative Data Analysis
 
-[Project 1 Title](notebooks/volcanoes.pdf)
+[Volcanoes](notebooks/volcanoes.pdf)
 <img src="assets/volcanoes.png?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Mobile Apps
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
