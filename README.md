@@ -5,7 +5,7 @@
 ### Explorative Data Analysis
 
 [Volcanoes](notebooks/volcanoes.pdf)
-<img src="assets/volcanoes.png?raw=true"/>
+[<img src="assets/volcanoes.png?raw=true">](notebooks/volcanoes.pdf)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
