@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](https://github.com/TuringCollegeSubmissions/lcramw-DS.1.1/blob/master/data-wrangling-and-storytelling.ipynb)
+[Project 1 Title](notebooks/volcanoes.pdf)
 <img src="assets/dummy_thumbnail.jpg?raw=true"/>
 
 ---
