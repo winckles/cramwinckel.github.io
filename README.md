@@ -4,7 +4,6 @@
 
 ### Explorative Data Analysis
 
-[Volcanoes](notebooks/volcanoes.pdf)
 [<img src="assets/volcanoes.png?raw=true">](notebooks/volcanoes.pdf)
 
 ---
