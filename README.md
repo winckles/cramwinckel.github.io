@@ -6,6 +6,8 @@
 
 [<img src="assets/volcanoes.png?raw=true">](notebooks/volcanoes.pdf)
 
+[<img src="assets/wordcloud.png?raw=true">](notebooks/wordclouds.pdf)
+
 ---
 
 ### Mobile Apps
